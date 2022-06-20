@@ -22,7 +22,7 @@ module.exports = {
     //   navbar: false,
       nav: [
         { text: 'Home', link: '/' },
-        { text: 'Guide', link: '/about' },
+        { text: '篮球', link: '/about' },
         {
             text: 'Languages',
             items: [
